@@ -1,5 +1,5 @@
 # Segmentation_detectron2
-1. [Detectron2.py](https://github.com/hydrangea3000/Segmentation_detectron2/blob/main/Detectron2.ipynb) - comparison of different models applied to [streets_spb.jpg](https://github.com/hydrangea3000/Segmentation_detectron2/tree/main/images/streets_spb.jpg):
+1. [Detectron2.py](https://github.com/hydrangea3000/Segmentation_detectron2/blob/main/Detectron2.ipynb) - comparison of different models applied to [streets_spb.jpg](https://github.com/hydrangea3000/Segmentation_detectron2/blob/main/images/street_spb.jpg):
    - Object Detection on COCO;
    - Instance Segmentation (Cityscapes)
    - Semantic Segmentation (Cityscapes)
