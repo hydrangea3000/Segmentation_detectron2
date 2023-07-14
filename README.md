@@ -7,4 +7,4 @@
    - Panoptic Segmentation (Cityscapes, Panoptic DeepLab)
    - Semantic  Segmentation + PointRend (Cityscapes)
 2. [panoptic_seg.py](https://github.com/hydrangea3000/Segmentation_detectron2/blob/main/panoptic_seg.py) - Panoptic Segmentation  applied to videos of Amsterdam and Tokyo
-   [input and output videos folder](https://github.com/hydrangea3000/Segmentation_detectron2/tree/main/videos)
+   [input and output videos folder](https://github.com/hydrangea3000/Segmentation_detectron2/tree/main/videos),  [model](https://github.com/facebookresearch/detectron2/blob/main/configs/COCO-PanopticSegmentation/panoptic_fpn_R_101_3x.yaml)
